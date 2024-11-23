@@ -8,6 +8,7 @@ public class tinhTuoi {
 		int sum = 0;
 		int min = ages[0];
 		int max = ages[0];
+		
 
 		for (int age : ages) {
 			sum += age;
