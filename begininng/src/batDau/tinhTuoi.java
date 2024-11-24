@@ -25,6 +25,6 @@ public class tinhTuoi {
 		System.out.println("Tong la " + sum);
 		System.out.println("Trung binh tuoi la " + average);
 		System.out.println("min: " + min);
-		System.out.println("max: " + max);
+		System.out.println("max:  " + max);
 	}
 }
