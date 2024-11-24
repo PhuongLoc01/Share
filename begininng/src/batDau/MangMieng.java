@@ -9,6 +9,6 @@ public class MangMieng {
 	public static void main(String[] args) {
 		myMethod("John1", 33);
 		myMethod("John2", 33);
-		myMethod("John3", 33);
+		myMethod("John3", 33)   ;
 	}
 }
